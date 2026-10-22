@@ -2,7 +2,9 @@
 
 An ad-free, open-source Android video player built on Jetpack Media3 (ExoPlayer) and Jetpack Compose.
 
-## Features (v0.3)
+## Features (v0.4)
+- Redesigned home: header, tab pills, thumbnails, sorting (name/date/size/duration), list or grid view
+- New player UI: modern controls, collapsible options panel, playlist, audio/subtitle menus, orientation switch + rotation lock, landscape playback
 - Videos and Folders tabs (MediaStore, internal storage + SD card)
 - Network streaming (HTTP progressive, HLS, DASH)
 - Gestures: left side brightness, right side volume, horizontal swipe seek
